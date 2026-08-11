@@ -10,6 +10,7 @@ package ImmutableClass;
 
  why this happens
    due to shollow copy
+   done by deep copy;
 */
 
 public class Demo2{
